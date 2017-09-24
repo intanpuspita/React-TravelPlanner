@@ -1,0 +1,9 @@
+#:D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Logic\TravelPlanner.Logic.xproj
+D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Logic\TravelPlanner.Logic.xproj|D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Objects\TravelPlanner.Objects.xproj
+#:D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.API\TravelPlanner.API.xproj
+D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.API\TravelPlanner.API.xproj|D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Logic\TravelPlanner.Logic.xproj
+D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Logic\TravelPlanner.Logic.xproj|D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Objects\TravelPlanner.Objects.xproj
+#:D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Auth\TravelPlanner.Auth.xproj
+D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Auth\TravelPlanner.Auth.xproj|D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Logic\TravelPlanner.Logic.xproj
+D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Auth\TravelPlanner.Auth.xproj|D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Objects\TravelPlanner.Objects.xproj
+D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Logic\TravelPlanner.Logic.xproj|D:\03 CDC\ReactJS\Travel Planner\TravelPlanner\src\TravelPlanner.Objects\TravelPlanner.Objects.xproj

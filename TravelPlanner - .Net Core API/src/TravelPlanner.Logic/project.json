@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "MailKit": "1.18.0",
+    "NETStandard.Library": "1.6.0",
+    "Sendgrid": "9.7.0",
+    "TravelPlanner.Objects": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
